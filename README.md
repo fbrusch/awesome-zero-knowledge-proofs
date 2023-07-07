@@ -297,6 +297,13 @@ More resources available at [starkware.co](https://www.starkware.co)
 
 - [Fractal: Post-Quantum and Transparent Recursive Proofs from Holography](https://eprint.iacr.org/2019/1076)
 
+### Nove
+
+(This is a recent development.)
+
+- [Nova: Recursive Zero-Knowledge Arguments from Folding Schemes](https://eprint.iacr.org/2021/370)
+
+
 ## Social media
 
 Stay tuned!
